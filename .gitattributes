@@ -1,0 +1,2 @@
+out/* filter=lfs diff=lfs merge=lfs -text
+out/localkube filter=lfs diff=lfs merge=lfs -text
